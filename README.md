@@ -1,1 +1,1 @@
-Git Commands are great
+It Feels great to be part of Umuzi 
